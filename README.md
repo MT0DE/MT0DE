@@ -12,7 +12,7 @@
 > ![Rust](assets/images/icons8-rust-programming-language.svg "Rust Programming Language icon by Icons8")
 
 ### Get in touch with me on:
-![Discord](/assets/images/icons8-discord-24.png) - LL926#8659  
+![Discord](/assets/images/icons8-discord-24.png) Discord - LL926#8659  
 📫 Mail - lukasla.edu@hotmail.com
 
 <!--
