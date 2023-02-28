@@ -1,3 +1,4 @@
+
 ## Hello, I am Lukas Lannge
 > ### Programming Languages Proficiency
 > ![C#](/assets/images/icons8-c-programming.svg "C Programming icon by Icons8")
@@ -9,6 +10,10 @@
 > - Studying a ***Master's Degree*** in information technology at KTH, Sweden. KTH is among the top 100 universities in the world according to [QS World University Rankings](https://www.topuniversities.com/universities/kth-royal-institute-technology) 
 > ### Currently learning:
 > ![Rust](assets/images/icons8-rust-programming-language.svg "Rust Programming Language icon by Icons8")
+
+### Get in touch with me on:
+![Discord](/assets/images/icons8-discord-24.png) - LL926#8659  
+📫 Mail - lukasla.edu@hotmail.com
 
 <!--
 **MT0DE/MT0DE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
