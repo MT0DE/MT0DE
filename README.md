@@ -6,7 +6,7 @@
 > ![Elixir/Erlang](assets/images/icons8-erlang.svg "Erlang icon by Icons8") (Elixir too)
 >
 > ### About me:
-> - 21 year old (male), intrests in Cooking :rice_ball:, Languages :book: and, of course, :computer: Programming :floppy_disk:!
+> - 21 year old (male), my interests involve Cooking :rice_ball:, Languages :book: and, of course, :computer: Programming :floppy_disk:!
 > - Studying a ***Master's Degree*** in information technology at KTH, Sweden. KTH is among the top 100 universities in the world according to [QS World University Rankings](https://www.topuniversities.com/universities/kth-royal-institute-technology) 
 > ### Currently learning:
 > ![Rust](assets/images/icons8-rust-programming-language.svg "Rust Programming Language icon by Icons8")
