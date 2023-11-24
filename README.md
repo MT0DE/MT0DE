@@ -1,8 +1,8 @@
 ## Hello and Welcome, I am Lukas Lannge
 
 - [x] I like cooking :rice_ball:, language learning :book: and developing my skills :computer:!
-- [x] Currently studying a ***Master's Degree*** in information technology at KTH, Sweden.
-- [ ] ~~Confidence of turning you into a rust-acean 🦀~~
+- [x] Studying a ***Master's Degree*** in information technology at KTH, Sweden.
+- [ ] ~~Confidently turns you into a rust-acean 🦀~~
 
 
 
