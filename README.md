@@ -1,5 +1,5 @@
 
-## Hello, I am Lukas Lannge
+> ## Hello, I am Lukas Lannge
 > ### Programming Languages Proficiency
 > ![C#](/assets/images/icons8-c-programming.svg "C Programming icon by Icons8")
 > ![Jave](/assets/images/icons8-java.gif "Java icon by Icons8")
@@ -8,7 +8,7 @@
 > ### About me:
 > - 21 year old
 > - my interests involve Cooking :rice_ball:, Languages :book: and, of course, :computer: Programming :floppy_disk:!
-> - Studying a ***Master's Degree*** in information technology at KTH, Sweden. KTH is among the top 100 universities in the world according to [QS World University Rankings](https://www.topuniversities.com/universities/kth-royal-institute-technology) 
+> - Studying a ***Master's Degree*** in information technology at KTH, Sweden.
 > ### Currently learning:
 > ![Rust](assets/images/icons8-rust-programming-language.svg "Rust Programming Language icon by Icons8")
 
