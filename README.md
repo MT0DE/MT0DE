@@ -11,10 +11,9 @@
 > - Studying a ***Master's Degree*** in information technology at KTH, Sweden.
 > ### Currently learning:
 > ![Rust](assets/images/icons8-rust-programming-language.svg "Rust Programming Language icon by Icons8")
-
-### Contact details:
-![Discord](/assets/images/icons8-discord-24.png "Discord icon by Icons8") Discord - LL926
-📫 Mail - lukasla.edu@gmail.com
+> ### Contact details:
+> ![Discord](/assets/images/icons8-discord-24.png "Discord icon by Icons8") Discord - LL926
+> 📫 Mail - lukasla.edu@gmail.com
 
 <!--
 **MT0DE/MT0DE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
