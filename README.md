@@ -1,25 +1,11 @@
 ## Hello and Welcome, I am Lukas Lannge
 
-- [x] I like cooking :rice_ball:, language learning :book: and developing my skills :computer:!
 - [x] Studying a ***Master's Degree*** in information technology at KTH, Sweden.
-- [ ] ~~Confidently turns you into a rust-acean 🦀~~
+- [x] I like cooking :rice_ball:, language learning :book: and developing my skills :computer:!
 
-
-
-### Programming Languages Proficiency
 ![C#](/assets/images/icons8-c-programming.svg "C Programming icon by Icons8")
 ![Jave](/assets/images/icons8-java.gif "Java icon by Icons8")
 ![Elixir/Erlang](assets/images/icons8-erlang.svg "Erlang icon by Icons8") (Elixir too)
-
-<h3>
-  Familiar with Rust or full-stack development? 
-</h3>
-<p>
-  I am want to understand more this type of area and hope I can contact you about related topics! 
-</p>
-<br>
-<br>
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mt0de&show_icons=true&theme=nord)
 
 <details>
