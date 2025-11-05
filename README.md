@@ -5,7 +5,7 @@
 
 ![C#](/assets/images/icons8-c-programming.svg "C Programming icon by Icons8")
 ![Jave](/assets/images/icons8-java.gif "Java icon by Icons8")
-![Elixir/Erlang](assets/images/icons8-erlang.svg "Erlang icon by Icons8") (Elixir too)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mt0de&show_icons=true&theme=nord)
 
 <details>
